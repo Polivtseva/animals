@@ -1,0 +1,5 @@
+com\example\animals\controller\AnimalContr.class
+com\example\animals\entity\AnimalModel.class
+com\example\animals\App.class
+com\example\animals\entity\Animal.class
+com\example\animals\interfaces\AnimalRepo.class
